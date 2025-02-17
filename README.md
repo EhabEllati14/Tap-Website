@@ -1,3 +1,41 @@
+# 🚀 TAP - Task Management System
+
+## 📌 Project Overview
+TAP (Task Allocator Pro) is a **Task Management System** designed to streamline project management and task allocation. It helps organizations efficiently assign tasks, monitor progress, and enhance team collaboration.
+
+## 🌟 System Roles
+- 👨‍💼 **Manager**: Creates projects and assigns a **Team Leader** to manage tasks.
+- 🏗 **Team Leader**: Creates tasks and allocates them to **Team Members**.
+- 👥 **Team Member**: Accepts tasks, updates progress, and completes assigned work.
+
+## 📌 Core Functionalities
+### **1️⃣ Project Management**
+- Managers **create projects**, define details, and allocate a Team Leader.
+- Projects include information such as **title, budget, timeline, and description**.
+
+### **2️⃣ Task Allocation**
+- Team Leaders **create and assign tasks** to Team Members.
+- Tasks include **priority, effort estimation, deadlines, and status tracking**.
+
+### **3️⃣ Task Execution & Tracking**
+- Team Members **accept or reject** tasks.
+- Team Members **update task progress** using a status tracking system.
+- Managers and Team Leaders **monitor completion rates**.
+
+### **4️⃣ User Management**
+- Secure **registration, login, and role-based access**.
+- Only Managers can **assign Team Leaders**, and only Team Leaders can **assign Team Members**.
+
+## 🎯 Future Enhancements
+- 📊 **Dashboard Insights** for task and project analytics.
+- 📧 **Email Notifications** for task assignments and deadlines.
+- 📱 **Mobile-Friendly UI** for task updates on the go.
+
+## 🤝 Collaboration & Efficiency
+TAP simplifies teamwork by ensuring **structured project execution, clear responsibilities, and streamlined communication**. 🚀
+
+--> Here, I have attached some screenshots of my project to provide a visual representation of its functionalities and user interface.
+
 ![Screenshot 2025-02-17 093442](https://github.com/user-attachments/assets/8f47454f-fc40-404b-bdd1-1bf4ca1daa58)
 ![Screenshot 2025-02-17 093457](https://github.com/user-attachments/assets/90db79e3-9dc4-4b0d-a48b-d2fe5b642169)
 ![Screenshot 2025-02-17 093520](https://github.com/user-attachments/assets/3e9040b9-6fce-4261-acb9-e59aa47cbec4)
