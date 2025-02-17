@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: rgb(1, 141, 176);
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 95vh;
+}
+main {
+  background-color: #ffffff;
+  border-radius: 17px;
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.1);
+  width: 80%;
+  max-width: 600px;
+  padding: 30px;
+  text-align: center;
+  border:2px solid black;
+}
+#successmsg {
+  color: #15a537;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 21px;
+  text-transform: capitalize;
+}
+#failerror {
+  color: #fa0019;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 21px;
+  text-transform: capitalize;
+}
+#successfailform{
+  margin-top: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#successforms {
+  margin-top: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#addanotherbutton {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 250px;
+}
+#backsuccessbtn {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 250px;
+}
+#finishbtn {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 11px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 250px;
+}
+#addanotherbutton:hover{
+  background-color: #1ad597;
+  color:black;
+  font-weight: bold;
+}
+#backsuccessbtn:hover {
+  background-color: #1ad597;
+  color:black;
+  font-weight: bold;
+  
+}
+#finishbtn:hover {
+  background-color: #1ad597;
+  color:black;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #1e3c72;
+  margin-bottom: 20px;
+}
